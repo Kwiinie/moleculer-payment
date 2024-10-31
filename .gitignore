@@ -1,0 +1,17 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore log files and temp files
+*.log
+*.tmp
+
+# Ignore compiled output
+/dist/
+/build/
+
+/node_modules/
+
+
+# Ignore IDE config files
+.vscode/
+.idea/
